@@ -1,2 +1,2 @@
-# TFG---Programaci-on-visual-de-la-producci-on
-Trabajo de Final de Grado perteneciente a la rama de Software realizado en la Universidad del País Vasco.
+# TFG Programación visual de la producción
+Este documento corresponde a la memoria del Trabajo de Fin de Grado con título ``Programación visual de la producción", en colaboración con la empresa AMIE CONSULTING. El proyecto se ubica dentro de la rama de programación de software, concretamente en la programación web. Se ha desarrollado una pagina web que permite la programación visual de fabricación en cada etapa de proceso teniendo en cuenta las restricciones de uso de recursos y la secuencia de fabricación. Además de visualizar los recursos necesarios de personal, teniendo en cuenta o no las restricciones impuestas. Junto la posibilidad de simulación o corrección manual del programa, con el recalculo de recursos. Representando la carga semanal de producción en una planificación mensual o anual.
